@@ -1,0 +1,7 @@
+Classe	Soglia
+angry	0.44
+fear	0.22
+happy	0.24
+sad	0.24
+surprise	0.64
+neutral	0.36

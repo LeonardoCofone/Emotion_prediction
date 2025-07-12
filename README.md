@@ -17,12 +17,12 @@ The goal is to provide an easy-to-use, efficient application for emotion detecti
 
 ---
 
-## 2 · Dataset  
+## 2 · Dataset - FER2013  
 
 | Feature       | Value                                         |
 | ------------- | --------------------------------------------- |
 | Origin        | The model was trained on a large curated dataset of facial images labeled with six emotions (Angry, Fear, Happy, Sad, Surprise, Neutral). Due to size and licensing restrictions, the dataset is not publicly included. |
-| Size          | Tens of thousands of images (exact number not disclosed) |
+| Size          | About 25000 images |
 | Classes       | 6 classes: Angry, Fear, Happy, Sad, Surprise, Neutral |
 
 ### Notes  
@@ -37,7 +37,7 @@ The goal is to provide an easy-to-use, efficient application for emotion detecti
 │   ├── Emotion_detection_final2.h5         # Pre-trained TensorFlow model (not included)  
 │   └── best_threshold.txt                  # Classification threshold  
 ├── assets/  
-│   └── LOGO.png                            # Logo image used in loading screen   
+│   └── LOGO.png                            # Logo image used in loading screen, you can change it ;)   
 ├── README.md                               # This documentation file  
 ├── LICENSE.txt                             # The licensa (MIT)  
 ├── Creation_of_the_model.ipynb             # The notebook used to create the model

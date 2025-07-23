@@ -54,7 +54,7 @@ The goal is to provide an easy-to-use, efficient application for emotion detecti
 
 ---
 
-## Thank you all!
+## Thank you all!!
 > If you have something to report, contact me
 ---
 LINK: [Kggle](https://www.kaggle.com/zlatan599)  

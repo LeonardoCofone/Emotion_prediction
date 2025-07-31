@@ -60,4 +60,6 @@ The goal is to provide an easy-to-use, efficient application for emotion detecti
 LINK: [Kggle](https://www.kaggle.com/zlatan599)  
 LINK: [Linkedin](https://www.linkedin.com/in/leonardo-cofone-914228361/)  
 LINK:
-[LinkTree](https://linktr.ee/Leonardo_Cofone)
+[LinkTree](https://linktr.ee/Leonardo_Cofone)  
+LINK:
+[Github](https://github.com/LeonardoCofone)
